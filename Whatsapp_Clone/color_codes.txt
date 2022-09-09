@@ -1,0 +1,7 @@
+#FFFFFF (white)
+#273443 (background)
+#50575e (message from)
+#07883B (message to)
+#1C1E21 (footer bar)
+#D8E8EA (text)
+#128C7E (header)

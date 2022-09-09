@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="20" viewBox="0 0 24 24">
+  <g id="Icon_material-camera-alt" data-name="Icon material-camera-alt" transform="translate(-3 -3)">
+    <path id="Path_1" data-name="Path 1" d="M22.8,18A4.8,4.8,0,1,1,18,13.2,4.8,4.8,0,0,1,22.8,18Z" transform="translate(-3 -1.759)" fill="#d8e8ea"/>
+    <path id="Path_2" data-name="Path 2" d="M11.4,3,9.2,5.667H5.4A2.551,2.551,0,0,0,3,8.333v16A2.551,2.551,0,0,0,5.4,27H24.6A2.551,2.551,0,0,0,27,24.333v-16a2.551,2.551,0,0,0-2.4-2.667H20.8L18.6,3ZM15,23c-3.312,0-6-2.987-6-6.667s2.688-6.667,6-6.667,6,2.987,6,6.667S18.312,23,15,23Z" fill="#d8e8ea"/>
+  </g>
+</svg>

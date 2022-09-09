@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="24.004" viewBox="0 0 27 24.004">
+  <g id="Call_Plus" transform="translate(-107.95 1486)">
+    <path id="Icon_material-call" data-name="Icon material-call" d="M9.93,14.887a21.632,21.632,0,0,0,9.885,8.787l3.3-2.933a1.626,1.626,0,0,1,1.53-.32A19.073,19.073,0,0,0,30,21.18a1.428,1.428,0,0,1,1.5,1.333v4.653A1.428,1.428,0,0,1,30,28.5C15.915,28.5,4.5,18.353,4.5,5.833A1.428,1.428,0,0,1,6,4.5h5.25a1.428,1.428,0,0,1,1.5,1.333,13.62,13.62,0,0,0,.855,4.76,1.236,1.236,0,0,1-.375,1.36l-3.3,2.933Z" transform="translate(103.45 -1490.498)" fill="#d8e8ea"/>
+    <g id="Icon_feather-plus" data-name="Icon feather-plus" transform="translate(114.951 -1492.498)">
+      <path id="Path_22" data-name="Path 22" d="M18,7.5v9" transform="translate(-6.001)" fill="none" stroke="#d8e8ea" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_23" data-name="Path 23" d="M7.5,18h9" transform="translate(0 -6.001)" fill="none" stroke="#d8e8ea" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

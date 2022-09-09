@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #D8E8EA;
+}
+.Content_Wrapper{
+    height: 80px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 70px 1fr 50px;
+    align-content: center;
+}
+.User_Image{
+    height: 60px;
+    width: 60px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.Details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Name_container{
+    padding: 5px 0;
+    font-weight: bold;
+}
+.about{
+    height: auto;
+    font-size: 14px;
+}
+.Time{
+    display: block;
+    font-size: 12px;
+    height: auto;
+
+}
